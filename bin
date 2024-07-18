@@ -1,0 +1,6 @@
+
+# Example deployment script
+echo "Deploying application..."
+
+# Add deployment commands here
+# e.g., kubectl apply -f k8s/
